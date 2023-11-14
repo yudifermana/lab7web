@@ -62,8 +62,8 @@
 ```python
 <h1>Menggunakan Variable</h1>
     <?php
-    $nim = "312210293";
-    $nama = 'Muhammad Din Al Ayubi';
+    $nim = "312210321";
+    $nama = 'Yudi fermana';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
     ?>
