@@ -81,7 +81,7 @@
 ```
 ##### Hasil Output
 ![gambar](gambar/foto6.png)
-##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
+##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php ```
 ##### Membuat Form Input
 ```python
 <!DOCTYPE html>
